@@ -1,3 +1,4 @@
+![logo](https://github.com/Joueur7/Joueur7/blob/main/Github%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Vinay</h1>
 <h3 align="center">A passionate Backend Developer</h3>
 
